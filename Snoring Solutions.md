@@ -2,7 +2,7 @@
 
 #2 Simple changes can quiet snoring. Try side-sleeping, avoid alcohol, and clear your nose.
 
-Original Link: <https://www.health.harvard.edu/diseases-and-conditions/snoring-solutions>
+[Original Link](https://www.health.harvard.edu/diseases-and-conditions/snoring-solutions)
 
 If your wife or sleep partner often seems bleary-eyed and resentful in the morning, you may be one of the millions of adults who snore habitually-a condition that affects twice as many men as women. Snoring occurs when your upper airways narrow too much, causing turbulent airflow. This, in turn, makes the surrounding tissues vibrate, producing noise.
 
