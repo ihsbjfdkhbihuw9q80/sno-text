@@ -46,5 +46,7 @@ If you are unsure what to do about snoring, a physician can advise you and also 
 
 ![Disclaimer Image](https://raw.githubusercontent.com/ihsbjfdkhbihuw9q80/sno-text/refs/heads/main/1212.jpg)
 
+---
+
 ## Disclaimer
 The information provided in this app is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition.
