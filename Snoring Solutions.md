@@ -10,6 +10,7 @@ If your wife or sleep partner often seems bleary-eyed and resentful in the morni
 
 Once the source of the snoring is identified, you can take appropriate steps to dampen the nightly din. These include not drinking alcohol at night, changing sleep position, avoiding snore-inducing medications, and addressing causes of nasal congestion.
 
+
 ## How to Alleviate Snoring
 
 Here are some factors that contribute to snoring and what you can do to alleviate them.
@@ -31,6 +32,7 @@ When you lie on your back, slack tissues in the upper airways may droop and cons
 
 ### Smoking
 Men who snore are often advised not to smoke, but the evidence this will help is weak. Needless to say, there are already plenty of other good reasons to quit smoking.
+
 
 ## Anti-Snoring Products
 
