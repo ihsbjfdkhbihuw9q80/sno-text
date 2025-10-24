@@ -1,7 +1,6 @@
 # Snoring Solutions
 
-## Simple changes can quiet snoring
-Try side-sleeping, avoid alcohol, and clear your nose.
+## Simple changes can quiet snoring.Try side-sleeping, avoid alcohol, and clear your nose.
 
 [Original Link](https://www.health.harvard.edu/diseases-and-conditions/snoring-solutions)
 
