@@ -43,5 +43,7 @@ Nasal-dilating strips are inexpensive and harmless, and some small studies sugge
 
 If you are unsure what to do about snoring, a physician can advise you and also make sure your snoring is not related to an underlying sleep disturbance, common in men, called obstructive sleep apnea. "The louder the snoring, the more likely it is to be related to sleep apnea," Dr. Patel says. "Not all men who snore have sleep apnea, but if the snoring is frequent, loud, or bothersome, they should at least be evaluated."
 
+![Disclaimer Image](https://raw.githubusercontent.com/ihsbjfdkhbihuw9q80/sno-text/refs/heads/main/1212.jpg)
+
 ## Disclaimer
 The information provided in this app is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition.
