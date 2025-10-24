@@ -1,6 +1,6 @@
-Snoring Solutions
+#1 Snoring Solutions
 
-Simple changes can quiet snoring. Try side-sleeping, avoid alcohol, and clear your nose.
+#2 Simple changes can quiet snoring. Try side-sleeping, avoid alcohol, and clear your nose.
 
 Original Link: <https://www.health.harvard.edu/diseases-and-conditions/snoring-solutions>
 
@@ -10,7 +10,7 @@ If your wife or sleep partner often seems bleary-eyed and resentful in the morni
 
 Once the source of the snoring is identified, you can take appropriate steps to dampen the nightly din. These include not drinking alcohol at night, changing sleep position, avoiding snore-inducing medications, and addressing causes of nasal congestion.
 
-How to Alleviate Snoring
+#2 How to Alleviate Snoring
 
 Here are some factors that contribute to snoring and what you can do to alleviate them.
 
@@ -26,12 +26,12 @@ Sleep position: When you lie on your back, slack tissues in the upper airways ma
 
 Smoking: Men who snore are often advised not to smoke, but the evidence this will help is weak. Needless to say, there are already plenty of other good reasons to quit smoking.
 
-Anti-Snoring Products
+#2 Anti-Snoring Products
 
 Many products claim to help with snoring, but few of them are backed by solid research. One potentially effective option is wearing an anti-snoring mouth appliance, which pulls the jaw (along with the tongue) slightly forward to open the upper airway. An appliance made by a dentist can cost around \$1,000. Do-it-yourself kits cost much less, but may not be as well tailored to your mouth.
 
 Nasal-dilating strips are inexpensive and harmless, and some small studies suggest they may help reduce snoring. You apply these adhesive strips across your nose at bedtime to help to open up the nasal passages. Breathe Right is one well-known brand, but there are many others available at relatively low cost.
 
-When to See a Doctor
+#2 When to See a Doctor
 
 If you are unsure what to do about snoring, a physician can advise you and also make sure your snoring is not related to an underlying sleep disturbance, common in men, called obstructive sleep apnea. "The louder the snoring, the more likely it is to be related to sleep apnea," Dr. Patel says. "Not all men who snore have sleep apnea, but if the snoring is frequent, loud, or bothersome, they should at least be evaluated."
