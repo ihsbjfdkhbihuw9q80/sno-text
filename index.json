@@ -68,5 +68,75 @@
       "it": "it/2.md",
       "ko": "ko/2.md"
     }
+  },
+  {
+    "id": "3",
+    "title": {
+      "en": "Sleep Apnea Solutions",
+      "zh": "睡眠呼吸暂停（OSA）解决方案",
+      "ja": "睡眠時無呼吸症候群の解決策",
+      "es": "Soluciones para la Apnea del Sueño",
+      "fr": "Solutions contre l'Apnée du Sommeil",
+      "ar": "حلول انقطاع النفس النومي",
+      "pt": "Soluções para Apneia do Sono",
+      "ru": "Решения для борьбы с апноэ сна",
+      "ms": "Penyelesaian Apnea Tidur",
+      "id": "Solusi Apnea Tidur",
+      "de": "Lösungen gegen Schlafapnoe",
+      "it": "Soluzioni per l'Apnea del Sonno",
+      "ko": "수면 무호흡증 해결책"
+    },
+    "originalLink": "https://www.health.harvard.edu/staying-healthy/sleep-apnea-solutions",
+    "date": "2025-10-25",
+    "paths": {
+      "en": "en/3.md",
+      "zh": "zh/3.md",
+      "ja": "ja/3.md",
+      "es": "es/3.md",
+      "fr": "fr/3.md",
+      "ar": "ar/3.md",
+      "pt": "pt/3.md",
+      "ru": "ru/3.md",
+      "ms": "ms/3.md",
+      "id": "id/3.md",
+      "de": "de/3.md",
+      "it": "it/3.md",
+      "ko": "ko/3.md"
+    }
+  },
+  {
+    "id": "4",
+    "title": {
+      "en": "Sleep Apnea Solutions",
+      "zh": "睡眠呼吸暂停（OSA）解决方案",
+      "ja": "睡眠時無呼吸症候群の解決策",
+      "es": "Soluciones para la Apnea del Sueño",
+      "fr": "Solutions contre l'Apnée du Sommeil",
+      "ar": "حلول انقطاع النفس النومي",
+      "pt": "Soluções para Apneia do Sono",
+      "ru": "Решения для борьбы с апноэ сна",
+      "ms": "Penyelesaian Apnea Tidur",
+      "id": "Solusi Apnea Tidur",
+      "de": "Lösungen gegen Schlafapnoe",
+      "it": "Soluzioni per l'Apnea del Sonno",
+      "ko": "수면 무호흡증 해결책"
+    },
+    "originalLink": "https://www.health.harvard.edu/staying-healthy/sleep-apnea-solutions",
+    "date": "2025-10-25",
+    "paths": {
+      "en": "en/4.md",
+      "zh": "zh/4.md",
+      "ja": "ja/4.md",
+      "es": "es/4.md",
+      "fr": "fr/4.md",
+      "ar": "ar/4.md",
+      "pt": "pt/4.md",
+      "ru": "ru/4.md",
+      "ms": "ms/4.md",
+      "id": "id/4.md",
+      "de": "de/4.md",
+      "it": "it/4.md",
+      "ko": "ko/4.md"
+    }
   }
 ]
