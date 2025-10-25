@@ -4,14 +4,34 @@
     "title": {
       "en": "Snoring Solutions",
       "zh": "打鼾解决方案",
-      "ja": "いびき解消法"
+      "ja": "いびき解消法",
+      "es": "Soluciones para el Ronquido",
+      "fr": "Solutions contre le Ronflement",
+      "ar": "حلول الشخير",
+      "pt": "Soluções Contra o Ronco",
+      "ru": "Решения для борьбы с храпом",
+      "ms": "Penyelesaian Dengkur",
+      "id": "Solusi Mendengkur",
+      "de": "Lösungen gegen Schnarchen",
+      "it": "Soluzioni per il Russamento",
+      "ko": "코골이 해결책"
     },
     "originalLink": "https://www.health.harvard.edu/diseases-and-conditions/snoring-solutions",
     "date": "2025-10-24",
     "paths": {
       "en": "en/1.md",
       "zh": "zh/1.md",
-      "ja": "ja/1.md"
+      "ja": "ja/1.md",
+      "es": "es/1.md",
+      "fr": "fr/1.md",
+      "ar": "ar/1.md",
+      "pt": "pt/1.md",
+      "ru": "ru/1.md",
+      "ms": "ms/1.md",
+      "id": "id/1.md",
+      "de": "de/1.md",
+      "it": "it/1.md",
+      "ko": "ko/1.md"
     }
   },
   {
@@ -19,14 +39,34 @@
     "title": {
       "en": "Sleep Apnea Solutions",
       "zh": "睡眠呼吸暂停（OSA）解决方案",
-      "ja": "睡眠時無呼吸症候群の解決策"
+      "ja": "睡眠時無呼吸症候群の解決策",
+      "es": "Soluciones para la Apnea del Sueño",
+      "fr": "Solutions contre l'Apnée du Sommeil",
+      "ar": "حلول انقطاع النفس النومي",
+      "pt": "Soluções para Apneia do Sono",
+      "ru": "Решения для борьбы с апноэ сна",
+      "ms": "Penyelesaian Apnea Tidur",
+      "id": "Solusi Apnea Tidur",
+      "de": "Lösungen gegen Schlafapnoe",
+      "it": "Soluzioni per l'Apnea del Sonno",
+      "ko": "수면 무호흡증 해결책"
     },
     "originalLink": "https://www.health.harvard.edu/staying-healthy/sleep-apnea-solutions",
     "date": "2025-10-25",
     "paths": {
       "en": "en/2.md",
       "zh": "zh/2.md",
-      "ja": "ja/2.md"
+      "ja": "ja/2.md",
+      "es": "es/2.md",
+      "fr": "fr/2.md",
+      "ar": "ar/2.md",
+      "pt": "pt/2.md",
+      "ru": "ru/2.md",
+      "ms": "ms/2.md",
+      "id": "id/2.md",
+      "de": "de/2.md",
+      "it": "it/2.md",
+      "ko": "ko/2.md"
     }
   }
 ]
