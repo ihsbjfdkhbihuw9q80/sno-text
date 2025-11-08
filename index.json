@@ -1,4 +1,40 @@
 [
+      {
+    "id": "0",
+    "title": {
+    "en": "Mouth Exercises for Snoring",
+    "zh": "打鼾口腔练习",
+    "ja": "いびき対策の口腔運動",
+    "es": "Ejercicios de Boca para Ronquidos",
+    "fr": "Exercices de Bouche contre le Ronflement",
+    "ar": "تمارين الفم لمكافحة الشخير",
+    "pt": "Exercícios de Boca para Ronco",
+    "ru": "Упражнения для рта при храпе",
+    "ms": "Senaman Mulut untuk Berdengkur",
+    "id": "Latihan Mulut untuk Mendengkur",
+    "de": "Mundübungen gegen Schnarchen",
+    "it": "Esercizi Orali contro il Russare",
+    "ko": "코골이 방지 구강 운동"
+
+    },
+    "originalLink": "https://snore.dcocb.com/blog/train-mouth-stop-snoring",
+    "date": "2025-10-26",
+    "paths": {
+      "en": "en/0.md",
+      "zh": "zh/0.md",
+      "ja": "ja/0.md",
+      "es": "es/0.md",
+      "fr": "fr/0.md",
+      "ar": "ar/0.md",
+      "pt": "pt/0.md",
+      "ru": "ru/0.md",
+      "ms": "ms/0.md",
+      "id": "id/0.md",
+      "de": "de/0.md",
+      "it": "it/0.md",
+      "ko": "ko/0.md"
+    }
+  },
   {
     "id": "1",
     "title": {
